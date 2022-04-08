@@ -1,2 +1,8 @@
 # multimedia-projects
-Project Multimedia created by: <br> - Andreas Alexander &lt;br> - Andrew Nathaniel &lt;br> - Shandy &lt;br> - Mossat Vannadium &lt;br> - Rachmad Darmawan &lt;br> - Rio Handoko Aliwarga
+Project Multimedia created by: 
+- Andreas Alexander
+- Andrew Nathaniel
+- Shandy 
+- Mossat Vannadium
+- Rachmad Darmawan
+- Rio Handoko Aliwarga
