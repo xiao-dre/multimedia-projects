@@ -81,11 +81,22 @@
     padding-right: 5%;
 }
 
+.content3_cols{
+    max-width: 30%;
+    margin-left: 5%;
+    padding-right: 5%;
+}
+
 .content3_col{
-  border-right: 5px solid gray;
+  border-right: 2px solid gray;
 }
 
 .content3_col img{
+    width: 100px;
+    height: 100px;
+}
+
+.content3_cols img{
     width: 100px;
     height: 100px;
 }
