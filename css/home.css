@@ -1,0 +1,10 @@
+.container-2 {
+    background-color: #dcd7b9;
+    border-radius: 24px;
+    border: solid 4px white;
+}
+
+.container-2 p{
+    color:black;
+    font-size: 24px
+}
