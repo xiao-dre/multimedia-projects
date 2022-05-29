@@ -1,11 +1,10 @@
 * {
   font-family: sans-serif;
+  margin: 0;
 }
 
 .navbar-brand {
   font-family:'Garamond';
-  font-weight: bold;
-  color: black;
 }
 
 .search-bar {
@@ -13,7 +12,6 @@
   border: 2px solid white;
 }
 
-body{margin-top:20px;}
 .timeline-steps {
     display: flex;
     justify-content: center;
