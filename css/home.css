@@ -1,17 +1,17 @@
 * {
     font-family: sans-serif;
-  }
+}
   
-  .navbar-brand {
+.navbar-brand {
     font-family:'Garamond';
-    font-weight: bold;
+    font-weight: 100;
     color: black;
-  }
+}
   
-  .search-bar {
+.search-bar {
     border-radius: 0px;
     border: 2px solid white;
-  }
+}
 
 .container-2 {
     background-color: #dcd7b9;
