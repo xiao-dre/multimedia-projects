@@ -80,6 +80,6 @@
 }
 
 .content2_body_image {
+  padding: auto;
   border: solid 1px black;
-  padding: 2%;
 }
