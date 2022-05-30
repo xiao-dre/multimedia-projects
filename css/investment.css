@@ -35,27 +35,18 @@
 
 .content1M{
     background-color: #f2eecc;
-    align-content: center;
     padding: 50px;
 }
 
 .content1_image img{
-    border-radius: 50px;
-    margin: 50px;
-    width: 600px;
-    height: 600px;
+  width: 50%;
+  margin-left: 40%;
 }
 
-.content1 .content1_text{
-    float: right;
-    text-align: center;
-    
-    margin: auto;
+.content1_text {
+  margin-right: 20%;
 }
 
-.title_content1_text{
-    font-size: 80px;
-}
 
 .content1_header{
     position: relative;
@@ -73,18 +64,22 @@
 }
 
 .content2_title{
-    font-size: 64px;
+    font-size: 48px;
     text-align: center;
-    border-top: 5px solid black;
-    border-bottom: 5px solid black;
+    border-top: 5px solid #957554;
+    border-bottom: 5px solid #957554;
 }
 
 .content2_body_text{
-    text-align: center;
     margin:auto;
 }
 
 .content2_body_image{
       margin: 50px;
       width: 800px;
+}
+
+.content2_body_image {
+  border: solid 1px black;
+  padding: 2%;
 }
