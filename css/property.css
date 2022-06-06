@@ -13,24 +13,43 @@
     border: 2px solid white;
   }
   
-  .container:first-child {
-    width: 200px;
-    height: 175px;
-    margin: 100px;
-    transform: rotateY(0deg) rotate(45deg);
-    transition: transform 2s;
+  header{
+    height: 200px;
+    position: relative;
+    display: block;
   }
 
-  /* .header-image{
-    position: fixed;
-    right: 0%;
-    top: 30px;
+  .header-image{
+    position: absolute;
+    width: 30%;
+    height: 100%;
+    right: 0px;
+    background-color: gray;
+  }
 
-  } */
-  
-  .inner {
-    margin: 50px;
-    transform: rotate(-45deg);
+  .header-image img{
+    height: 100%;
+    width: 40%;
+    display: block;
+    margin-left: 30%;
+    position: absolute;
+  }
+
+  .title1{
+    width: 70%;
+    height: 100%;
+    min-width: 70%;
+    position: absolute;
+    left: 0px;
+  }
+
+  .title1 h1{
+    padding-top: 50px;
+    width: 70%;
+    height: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: block;
   }
 
   .content1{
