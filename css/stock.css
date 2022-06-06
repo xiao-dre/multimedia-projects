@@ -14,7 +14,7 @@
 }
 
 header{
-  height: 200px;
+  height: 300px;
   position: relative;
   display: block;
 }
@@ -29,9 +29,9 @@ header{
 
 .header-image img{
   height: 100%;
-  width: 40%;
+  width: 60%;
   display: block;
-  margin-left: 30%;
+  margin-left: 20%;
   position: absolute;
 }
 
@@ -40,7 +40,8 @@ header{
   height: 100%;
   min-width: 70%;
   position: absolute;
-  left: 0px;
+  top: 15%;
+  left: 20%;
 }
 
 .title1 h1{
